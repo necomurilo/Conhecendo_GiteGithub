@@ -1,6 +1,3 @@
-# Day 1 🐈‍⬛
- Primeiro repositório do curso Git e GitHub
-
-Repositório criado durante uma aula ao vivo!
-
-Essa linha eu adicionei diretamente no site.
+# First project 🐈‍⬛
+Hi, I'll be the best of my best!
+Will build my legacy. No matter what happens, I  won't stop until I can achieve all that God dreamed of!
